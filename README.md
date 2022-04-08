@@ -1,5 +1,4 @@
 Tempo Software Exercise - Front End
-By: Pawel Leja
 
 Written in React.JS
 
